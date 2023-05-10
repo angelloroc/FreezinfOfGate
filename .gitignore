@@ -1,0 +1,9 @@
+/test
+/train
+daily_metada.csv
+defog_metadata.csv
+events.csv
+sample_submission.csv.zip
+subjects.csv
+task.csv
+tdcsfog_metadata.csv
